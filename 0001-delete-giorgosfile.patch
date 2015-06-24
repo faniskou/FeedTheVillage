@@ -1,0 +1,21 @@
+From 9225c55e042ec82fadbbd0bec668364c9d309fe1 Mon Sep 17 00:00:00 2001
+From: fanis <faniskou@gmail.com>
+Date: Wed, 24 Jun 2015 21:57:20 +0300
+Subject: [PATCH] delete giorgos file
+
+delete giorgos file
+---
+ giorgos | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 giorgos
+
+diff --git a/giorgos b/giorgos
+deleted file mode 100644
+index 258a47c..0000000
+--- a/giorgos
++++ /dev/null
+@@ -1 +0,0 @@
+-geia sou fani
+-- 
+1.9.1
+
